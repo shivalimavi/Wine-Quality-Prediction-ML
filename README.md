@@ -21,9 +21,8 @@ The goals of analyzing the wine quality dataset using machine learning algorithm
 
 ## Background / Related Work
 
-There is some background and related work related to the analysis of wine quality datasets using machine learning algorithms.
+The wine quality dataset is widely acknowledged within the machine learning community as a standard dataset for regression challenges. It has been employed in numerous research studies to assess the efficacy of diverse machine-learning algorithms and methodologies.
 
+An illustrative example is the research conducted by Cortez et al. (2009), wherein the same wine quality datasets were utilized to gauge the effectiveness of various machine learning algorithms. Their findings indicated that support vector regression and artificial neural networks exhibited superior performance in predicting wine quality.
 
-## Problem Definition and Roadmap
-
-In this project, we aim to predict wine quality using the UCL dataset and machine learning algorithms.
+In a parallel study, Fernández-Delgado et al. (2014) conducted an exhaustive evaluation of various machine learning algorithms across multiple benchmark datasets, including the wine quality dataset. Their results revealed that random forest regression emerged as one of the most proficient algorithms for predicting wine quality.
