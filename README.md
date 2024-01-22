@@ -20,7 +20,4 @@ There is some background and related work related to the analysis of wine qualit
 
 ## Problem Definition and Roadmap
 
-In this project, we aim to predict wine quality using the UCL dataset and machine learning algorithms...
-
-... (Copy the rest of your problem definition and roadmap section here)
-
+In this project, we aim to predict wine quality using the UCL dataset and machine learning algorithms.
